@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "fe681488ed56b03a",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e55eba25a9b8e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "未命名/未命名.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e060b849159300bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "252c74fc84eb5064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba18eb1ff07b6765",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fab4433414025d6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "836ed12c287d3f24",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b90a8a8617c83389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4290710ebe7486be",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52c3cb6192d4b4bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b96281e4205959ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e2c2cc6367b7d16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29bcc4fa5b884748",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名/未命名.md"
+              }
+            }
+          },
+          {
+            "id": "700fd06ee4988715",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a587941324f32f49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 193.5
+  },
+  "active": "14e55eba25a9b8e6",
+  "lastOpenFiles": [
+    "未命名/未命名.md",
+    "未命名思维导图.md",
+    "软件使用/obsidian 使用.md",
+    "软件使用/笔记软件对比.md",
+    "Excalidraw/Drawing 2022-05-03 17.20.23.excalidraw.md",
+    "插件测试/Enhancing Mindmap.md",
+    "代码规范.md",
+    "笔记规范.md",
+    "attachments/Pasted image 20220429151150.png",
+    "attachments/Pasted image 20220430164620.png"
+  ]
+}
