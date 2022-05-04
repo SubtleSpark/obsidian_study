@@ -7,9 +7,12 @@
         "id": "15c181171a759425",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "attachments/image-20220429005537603.png"
+            "file": "插件测试/Enhancing Mindmap.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -89,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/image-20220429005537603.png",
+                "file": "插件测试/Enhancing Mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/image-20220429005537603.png"
+                "file": "插件测试/Enhancing Mindmap.md"
               }
             }
           },
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/image-20220429005537603.png",
+                "file": "插件测试/Enhancing Mindmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,15 +153,15 @@
   },
   "active": "15c181171a759425",
   "lastOpenFiles": [
-    "attachments/image-20220429005537603.png",
     "插件测试/Enhancing Mindmap.md",
+    "attachments/image-20220429004207106.png",
+    "attachments/image-20220429005537603.png",
     "Excalidraw/Drawing 2022-05-03 17.20.23.excalidraw.md",
     "软件使用/obsidian 使用.md",
     "软件使用/笔记软件对比.md",
     "未命名思维导图.md",
     "未命名/测试gitignote.md",
     "代码规范.md",
-    "笔记规范.md",
-    "attachments/Pasted image 20220429151150.png"
+    "笔记规范.md"
   ]
 }
