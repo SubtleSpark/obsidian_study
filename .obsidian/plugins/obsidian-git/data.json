@@ -17,5 +17,5 @@
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": ""
+  "basePath": "https://github.com/jun14111/obsidian_study"
 }
