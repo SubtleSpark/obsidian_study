@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "14e55eba25a9b8e6",
+        "id": "afddc3ec28db44d0",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -134,12 +134,12 @@
     "direction": "horizontal",
     "width": 193.5
   },
-  "active": "14e55eba25a9b8e6",
+  "active": "afddc3ec28db44d0",
   "lastOpenFiles": [
-    "未命名/测试gitignote.md",
-    "未命名思维导图.md",
     "软件使用/obsidian 使用.md",
     "软件使用/笔记软件对比.md",
+    "未命名思维导图.md",
+    "未命名/测试gitignote.md",
     "Excalidraw/Drawing 2022-05-03 17.20.23.excalidraw.md",
     "插件测试/Enhancing Mindmap.md",
     "代码规范.md",
