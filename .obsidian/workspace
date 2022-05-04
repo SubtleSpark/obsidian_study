@@ -7,13 +7,8 @@
         "id": "14e55eba25a9b8e6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "未命名/测试gitignote.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -92,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名/测试gitignote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名/测试gitignote.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名/测试gitignote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
