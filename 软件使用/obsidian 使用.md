@@ -138,19 +138,19 @@ demo
 # 5. 第三方插件
 
 ## 功能增强
-- 自动维护附件的插件
+- 自动维护附件的插件（不支持wiki链接）
 [自动维护Markdown相容性的外掛：obsidian-consistent-attachments-and-links](https://www.bilibili.com/video/BV1oT4y1y7oH?spm_id_from=333.337.search-card.all.click)
 
 - `File Explorer Count` 显示文件夹下笔记数量
 - `Recent Files`  显示最近打开的笔记
-- `obsidian-git` 通过github同步ob库
+- `obsidian-git` 通过github同步ob库，要配置上ssh。
 - `Pane Releif` 快速跳转当前面板前后打开过的笔记
 - `Remember cursor position` 下次打开一个文件时，光标放在上次关闭时的位置
 
 ## 编辑
 - `cMenu` 将常见格式显示成选项条
 - `Hover Editor` 浮動式編輯窗格
-- `Admonitions`
+
 ## 视觉效果
 - `Minimal Theme Settings` + `Style Settings`，设置Minimal主题
 
