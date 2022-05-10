@@ -4,36 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4978d3eab41165",
-        "type": "split",
-        "children": [
-          {
-            "id": "23956b203d19db33",
-            "type": "leaf",
-            "dimension": 30.284552845528456,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "插件测试/diagram.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "992d8b47e90ff143",
-            "type": "leaf",
-            "dimension": 69.71544715447155,
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "插件测试/Untitled Diagram.svg"
-              }
-            }
+        "id": "b9b828e9ea5ac937",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "插件测试/Drawing 2022-05-10 14.00.00.excalidraw.md"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -111,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "插件测试/Untitled Diagram.svg",
+                "file": "插件测试/Drawing 2022-05-10 14.00.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "插件测试/Untitled Diagram.svg"
+                "file": "插件测试/Drawing 2022-05-10 14.00.00.excalidraw.md"
               }
             }
           },
@@ -149,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "插件测试/Untitled Diagram.svg",
+                "file": "插件测试/Drawing 2022-05-10 14.00.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,17 +148,17 @@
     "direction": "horizontal",
     "width": 320.5
   },
-  "active": "992d8b47e90ff143",
+  "active": "b9b828e9ea5ac937",
   "lastOpenFiles": [
+    "插件测试/Drawing 2022-05-10 14.00.00.excalidraw.md",
     "插件测试/Untitled Diagram.svg",
+    "插件测试/Enhancing Mindmap.md",
+    "插件测试/Drawing 2022-05-10 14.00.00.excalidraw.svg",
+    "插件测试/Drawing 2022-05-10 14.00.00.excalidraw.png",
     "插件测试/diagram.md",
     "插件测试/dataview.md",
-    "插件测试/Enhancing Mindmap.md",
     "attachments/Pasted image 20220429151150.png",
     "Excalidraw/Drawing 2022-05-09 17.49.04.excalidraw.md",
-    "软件使用/obsidian 使用.md",
-    "attachments/image-20220429004207106.png",
-    "attachments/image-20220429005537603.png",
-    "Excalidraw/Drawing 2022-05-03 17.20.23.excalidraw.md"
+    "软件使用/obsidian 使用.md"
   ]
 }

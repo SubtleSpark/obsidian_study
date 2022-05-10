@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225.82695195793332 358.1393011131106" width="451.65390391586664" height="716.2786022262212" filter="invert(93%) hue-rotate(180deg)">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://unpkg.com/@zsviczian/excalidraw@0.11.0-obsidian-16/dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://unpkg.com/@zsviczian/excalidraw@0.11.0-obsidian-16/dist/excalidraw-assets/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="225.82695195793332" height="358.1393011131106" fill="#ffffff"/><g stroke-linecap="round" transform="translate(10 150.08778011732304) rotate(0 64.5 28.9375)"><path d="M0 0 C51.25 0, 102.5 0, 129 0 M0 0 C48.23 0, 96.45 0, 129 0 M129 0 C129 12.09, 129 24.19, 129 57.87 M129 0 C129 11.59, 129 23.18, 129 57.87 M129 57.87 C79.78 57.87, 30.56 57.87, 0 57.87 M129 57.87 C95.42 57.87, 61.83 57.87, 0 57.87 M0 57.87 C0 38.88, 0 19.89, 0 0 M0 57.87 C0 36.5, 0 15.12, 0 0" stroke="#000000" stroke-width="1" fill="none"/></g><g stroke-linecap="round"><g transform="translate(65.66559603772743 219.84441773504275) rotate(359.659501914957 49.9894520391957 64.2965474784342)"><path d="M0 0 C16.66 21.43, 83.32 107.16, 99.98 128.59 M0 0 C16.66 21.43, 83.32 107.16, 99.98 128.59" stroke="#000000" stroke-width="1" fill="none"/></g><g transform="translate(65.66559603772743 219.84441773504275) rotate(359.659501914957 49.9894520391957 64.2965474784342)"><path d="M74.58 112.64 C80.13 116.12, 85.69 119.61, 99.98 128.59 M74.58 112.64 C79.97 116.02, 85.36 119.41, 99.98 128.59" stroke="#000000" stroke-width="1" fill="none"/></g><g transform="translate(65.66559603772743 219.84441773504275) rotate(359.659501914957 49.9894520391957 64.2965474784342)"><path d="M90.78 100.04 C92.79 106.28, 94.8 112.53, 99.98 128.59 M90.78 100.04 C92.73 106.1, 94.68 112.16, 99.98 128.59" stroke="#000000" stroke-width="1" fill="none"/></g></g><g stroke-linecap="round" transform="translate(114.82695195793332 10) rotate(0 50.5 35.96003605769232)"><path d="M0 0 C37.3 0, 74.6 0, 101 0 M0 0 C36.72 0, 73.43 0, 101 0 M101 0 C101 28.06, 101 56.12, 101 71.92 M101 0 C101 16.4, 101 32.8, 101 71.92 M101 71.92 C68.61 71.92, 36.23 71.92, 0 71.92 M101 71.92 C75.03 71.92, 49.06 71.92, 0 71.92 M0 71.92 C0 43.88, 0 15.84, 0 0 M0 71.92 C0 53.29, 0 34.66, 0 0" stroke="#000000" stroke-width="1" fill="none"/></g><g transform="translate(119.82695195793332 34.46003605769232) rotate(0 45.5 11.5)"><text x="45.5" y="19" font-family="Helvetica, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">sfdg</text></g></svg>

@@ -1,9 +1,9 @@
 {
   "folder": "Excalidraw",
-  "embedUseExcalidrawFolder": false,
+  "embedUseExcalidrawFolder": true,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
-  "compress": false,
+  "compress": true,
   "autosave": true,
   "autosaveInterval": 10000,
   "drawingFilenamePrefix": "Drawing ",
@@ -13,19 +13,19 @@
   "useExcalidrawExtension": true,
   "displaySVGInPreview": true,
   "displayExportedImageIfAvailable": false,
-  "previewMatchObsidianTheme": false,
+  "previewMatchObsidianTheme": true,
   "width": "400",
   "isLeftHanded": false,
   "matchTheme": false,
   "matchThemeAlways": false,
-  "matchThemeTrigger": false,
+  "matchThemeTrigger": true,
   "defaultMode": "normal",
   "defaultPenMode": "never",
   "zoomToFitOnResize": true,
   "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
-  "hoverPreviewWithoutCTRL": false,
+  "hoverPreviewWithoutCTRL": true,
   "linkOpacity": 1,
   "openInAdjacentPane": false,
   "showLinkBrackets": true,
@@ -67,7 +67,70 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Add Next Step in Process": {
+      "Starting arrowhead": {
+        "value": "none",
+        "valueset": [
+          "none",
+          "arrow",
+          "triangle",
+          "bar",
+          "dot"
+        ]
+      },
+      "Ending arrowhead": {
+        "value": "triangle",
+        "valueset": [
+          "none",
+          "arrow",
+          "triangle",
+          "bar",
+          "dot"
+        ]
+      },
+      "Line points": {
+        "value": 0,
+        "description": "Number of line points between start and end"
+      },
+      "Gap between elements": {
+        "value": 100
+      },
+      "Wrap text at (number of characters)": {
+        "value": 25
+      },
+      "Fix width": {
+        "value": true,
+        "description": "The object around the text should have fix width to fit the wrapped text"
+      }
+    },
+    "Downloaded/Connect elements": {
+      "Starting arrowhead": {
+        "value": "none",
+        "valueset": [
+          "none",
+          "arrow",
+          "triangle",
+          "bar",
+          "dot"
+        ]
+      },
+      "Ending arrowhead": {
+        "value": "triangle",
+        "valueset": [
+          "none",
+          "arrow",
+          "triangle",
+          "bar",
+          "dot"
+        ]
+      },
+      "Line points": {
+        "value": 1,
+        "description": "Number of line points between start and end"
+      }
+    }
+  },
   "defaultTrayMode": false,
   "previousRelease": "1.6.27",
   "showReleaseNotes": true
